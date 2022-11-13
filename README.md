@@ -31,3 +31,5 @@ Required modules:
 8) Flask
 
 (Requirements: Dlib installation, shape_predictor_68_landmarks.dat)
+
+The sound and image files belong to their respective owners.
